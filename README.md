@@ -1,4 +1,6 @@
 # Green Pace Secure Policy Development
+![image](https://user-images.githubusercontent.com/75659218/198822857-01c4c2ed-ec8a-4854-8929-7e7f515f1c56.png)
+
 * Software development at Green Pace requires consistent implementation of secure principles to all developed applications. Consistent approaches and methodologies must be maintained through all policies that are uniformly defined, implemented, governed, and maintained over time.
 
 ## Purpose
