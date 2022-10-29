@@ -28,3 +28,10 @@
 ![image](https://user-images.githubusercontent.com/75659218/198823031-61280997-2f38-4753-879d-1a0423d7b979.png)
 
 * Automation will be used for the enforcement of and compliance to the standards defined in this policy. Green Pace already has a well-established DevOps process and infrastructure. Define guidance on where and how to modify the existing DevOps process to automate enforcement of the standards in this policy. Use the DevSecOps diagram and provide an explanation using that diagram as context.
+
+## Created Policies for Encryption and Triple A
+![image](https://user-images.githubusercontent.com/75659218/198823321-ec2af6c4-34c6-4119-a3a2-bc31e312754f.png)
+
+ * Include all three types of encryption (in flight, at rest, and in use) and each of the three elements of the Triple-A framework using the tables provided.
+  a. Explain each type of encryption, how it is used, and why and when the policy applies.
+  b. Explain each type of Triple-A framework strategy, how it is used, and why and when the policy applies.
