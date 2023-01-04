@@ -14,7 +14,7 @@
 
 # Second Publication/Improvements
 ## Revise the C/C++ Standards
-* You completed one of these tables for each of your standards in the Module Three milestone. In Project One, add revisions to improve the explanation and examples as needed. Add rows to accommodate additional examples of compliant and noncompliant code. Coding standards begin on the security policy.
+* Completed one of these tables for each standards in the second iteration. Since the first iteration, I have added revisions to improve the explanation and examples as needed. Add rows to accommodate additional examples of compliant and noncompliant code. Coding standards begin on the security policy.
 
 ## Risk Assessment
 ![image](https://user-images.githubusercontent.com/75659218/198823009-ac04372c-8657-4d0b-91b1-7512b989a20c.png)
