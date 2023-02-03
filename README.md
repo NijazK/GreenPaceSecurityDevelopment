@@ -10,7 +10,7 @@
 * This document applies to all staff that create, deploy, or support custom software at Green Pace.
 
 # First publication
-* There are seven steps outlined below that align with the elements you will be graded on in the accompanying rubric. When you complete these steps, you will have finished the security policy.
+* First publication included seven steps that were outlined below that align with the elements and user requests.
 
 # Second Publication/Improvements
 ## Revise the C/C++ Standards
